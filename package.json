@@ -1,0 +1,22 @@
+{
+    "name": "@schmupu/my-eslint-rules",
+    "version": "1.0.0",
+    "description": "ES Lint rules that I use for my own projects",
+    "main": ".eslintrc.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://git@github.com/schmupu/my-eslint-rules.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/schmupu/my-eslint-rules/issues"
+    },
+    "homepage": "https://github.com/schmpup/my-eslint-rules#readme",
+    "peerDependencies": {
+      "eslint-config-idiomatic": "^4.0.0"
+    }
+  }
